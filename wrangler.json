@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "odd-snowflake-2eca",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "2e1805a6-9abb-4dfd-99af-dfbd71789f25",
+      "database_name": "nameless-wildflower-37b0-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
